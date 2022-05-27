@@ -1,0 +1,18 @@
+[{
+  "_id": 1,
+  "nome": "Sean",
+  "cp": "08042",
+  "phoneN": "987-675-333",
+  "email": "sean@zmail.com",
+  "regData": "2022-01-04",
+  "shoppings": [
+    {
+      "seller": "marcelo",
+      "glasses_id": 1
+    },
+    {
+      "seller": "lidia",
+      "glasses_id": 2
+    }
+  ]
+}]

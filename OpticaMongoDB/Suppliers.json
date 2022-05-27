@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "fax": "44-555-6666",
+  "NIF": "35.413.765F",
+  "adress": {
+    "street": "almagro",
+    "number": 123,
+    "flour": 2,
+    "flat": "b",
+    "cp": "08042",
+    "town": "barcelona",
+    "country": "españa"
+  },
+  "name": "Carlito",
+  "phNum": "111-222-333"
+}]
