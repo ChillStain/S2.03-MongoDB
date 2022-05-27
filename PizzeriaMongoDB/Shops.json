@@ -1,0 +1,23 @@
+[{
+  "_id": 1,
+  "direccion": "via Augusta 34",
+  "cp": "08073",
+  "localidad": "barcelona",
+  "provincia": "barcelona",
+  "empleados": [
+    {
+      "nombre": "Andrea",
+      "apellido": "Wallace",
+      "NIF": "44459876R",
+      "tel": "685777496",
+      "trabajo": "cook"
+    },
+    {
+      "nombre": "Clint",
+      "apellido": "Westwood",
+      "NIF": "65566646G",
+      "tel": "655666697",
+      "trabajo": "DeliveryMan"
+    }
+  ]
+}]

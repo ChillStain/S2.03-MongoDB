@@ -1,0 +1,20 @@
+[{
+  "_id": 1,
+  "costumer_id": 1,
+  "shop_id": 1,
+  "data": "2022-01-05 16:34",
+  "kind": "delivery",
+  "price": 49,
+  "dataArrival": "2022-01-05 16:57",
+  "deliveryMan": "Phill",
+  "productos": [
+    {
+      "product_id": 1,
+      "quantity": 1
+    },
+    {
+      "product_id": 2,
+      "quantity": 2
+    }
+  ]
+}]
